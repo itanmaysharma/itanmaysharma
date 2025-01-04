@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello there
 🛠 I’m currently working on<br>Exploring advanced AI/ML concepts and building projects to expand my skill set.<br><br>👥 I’m looking to collaborate on<br>AI/ML projects, software development, and open-source initiatives.<br><br>🤝 I’m looking for help with<br>Networking and opportunities for full-time roles in software development or AI/ML domains.<br><br>🌱 I’m currently learning<br>Deep learning frameworks, model optimization, and deployment techniques.<br><br>💬 Ask me about<br>My experience in software development and insights from my AI/ML-focused master’s program.<br><br>⚡ Fun fact<br>I love solving and debugging challenging problems and contributing to innovative tech solutions!
 
 
